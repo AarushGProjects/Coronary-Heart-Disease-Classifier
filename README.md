@@ -1,4 +1,4 @@
-# Coronary-Heart-Disease-Classifier
+# Coronary Heart Disease Classifier
 
 The dataset contains risk factors as features that can be used to build predictive models. The task is to compare classification algorithms based on their performance and predict the risk of developing a heart disease. Consider the below mentioned features that are categorized by patient's Demographics, Behavioural and Medical history.
 
