@@ -34,4 +34,5 @@ Target variable (ordinal):
 
 Class 0: "Not at risk of heart disease" and Class 1: "Risk of heart disease"
 
-View Notebook Here: https://nbviewer.jupyter.org/github/AarushGProjects/Coronary-Heart-Disease-Classifier/blob/main/Coronary_Heart_Disease_Code.ipynb
+# View Notebook Here: 
+https://nbviewer.jupyter.org/github/AarushGProjects/Coronary-Heart-Disease-Classifier/blob/main/Coronary_Heart_Disease_Code.ipynb
