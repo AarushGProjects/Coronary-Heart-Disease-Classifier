@@ -6,7 +6,7 @@ Features:
 
 Age
 
-Sex
+Gender
 
 Chest pain type (4 values)
 
